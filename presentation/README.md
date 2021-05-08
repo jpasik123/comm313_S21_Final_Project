@@ -1,10 +1,4 @@
-## Progress presentation for COMM313 Final Project
+## Progress Presentation for COMM 313 Final Project
+### Jessica Pasik 
 
-* This folder should contain the files for your project progress presentation.
-
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. Share 1 or 2 interesting findings from your analysis so far.
-
-* Update this README file to describe the presentation.
+The presentation included in this folder gives a brief overview of my COMM 313 final project that tracks the evolution of country music lyrics from the 1990s and 2010s by both male and female artists. In the PowerPoint, I share my research question and hypothesis as well as summaries of the data collection and organization process and the varying analyses I completed to find answers to my questions and hypotheses. 
